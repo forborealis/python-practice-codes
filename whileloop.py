@@ -1,6 +1,4 @@
-i = 1
-while i < 6:
-  print(i)
-  if i == 6:
-    break
-  i += 1
+a = 0
+while (a<10):
+  print(a)
+  a=a+1
